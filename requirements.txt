@@ -1,0 +1,7 @@
+langchain
+langchain-huggingface
+langchain-community
+flask 
+pyngrok 
+peft
+bitsandbytes
